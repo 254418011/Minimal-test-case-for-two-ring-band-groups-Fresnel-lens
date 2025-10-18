@@ -1,1 +1,1 @@
-This case contains the two ring-band groups Fresnel lens CAD models and the simulation result file obtained by Tracepro software. Readers can submit it to Tracepro to obtain the final results of this manuscript. 
+This case contains the two ring-band groups Fresnel lens CAD models and the simulation result file obtained by Tracepro software. Readers can submit it to Tracepro to obtain the final results. 
